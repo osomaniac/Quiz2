@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-import csv
 
 ## read files to csvs
 classes = pd.read_csv('animal_classes.csv')
